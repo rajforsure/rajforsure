@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Raj Mondal 👋</h1>
-<h3 align="center">🚀 AI Tools Builder | 💻 Full Stack Developer | 🧠 Problem Solver | 🎯 N.C.C. CADET</h3>
+<h3 align="center">🚀 AI Tools Builder | 💻 Developer | 🧠 Problem Solver | 🎯 N.C.C. CADET</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Student+@+KIIT+University;AI+%26+Automation+Developer;Building+Smart+Tools+%F0%9F%A4%96;Learning+DSA+Daily+%F0%9F%93%96;Lifelong+Learner+%F0%9F%92%AB" alt="Typing SVG" />
