@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Raj Mondal 👋</h1>
-<h3 align="center">🚀 AI Tools Builder | 💻 Full Stack Developer | 🧠 Problem Solver | 🎯 CodeSprint 2.0 Participant</h3>
+<h3 align="center">🚀 AI Tools Builder | 💻 Full Stack Developer | 🧠 Problem Solver | 🎯 N.C.C. CADET</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Student+@+KIIT+University;AI+%26+Automation+Developer;Building+Smart+Tools+%F0%9F%A4%96;Learning+DSA+Daily+%F0%9F%93%96;Lifelong+Learner+%F0%9F%92%AB" alt="Typing SVG" />
@@ -25,26 +25,26 @@
 
 ## 🌟 Featured Projects
 
-🔹 [**YouTube Study Kit**](https://github.com/rajforsure/youtube-study-kit)  
+🔹 [**Study Snap**](https://github.com/rajforsure/Study-Snap)  
 🧠 Chrome Extension that helps students take timestamped AI-powered notes from educational videos.
 
-🔹 [**Get Set Genie**](https://github.com/rajforsure/get-set-genie)  
+🔹 [**Get Set Genie**](https://github.com/rajforsure/Get-Set-Genie)  
 🌍 AI-powered travel planner – turn your trip ideas into auto-generated itineraries using Gemini + Google Maps APIs.
 
-🔹 [**Smart AI LeadGen Tool**](https://github.com/rajforsure/ai-leadgen-tool)  
+🔹 [**Smart AI LeadGen Tool**](https://github.com/rajforsure/LEAD-GEN-TOOL)  
 🤖 B2B automation that finds leads and writes outreach messages.
 
-🔹 [**DSA Tracker**](https://github.com/rajforsure/dsa-journey)  
-📚 10-hour-a-day DSA prep tracker with daily logs, solved questions, and roadmap.
+🔹 [**CodeSprint2.0**](https://github.com/rajforsure/CodeSprint2.0)  
+📚 Solving D.S.A. questions daily at Codesprint 2.0 by USC.KIIT
 
 ---
 
 ## 🏆 Achievements & Highlights
 
-- 🏅 Solved 20+ challenges in **CodeSprint 2.0**  
-- 💡 Built 3+ full-stack AI-powered projects  
+- 🏅 Solved 50+ challenges in **CodeSprint 2.0**  
+- 💡 Built 3+ AI-powered projects  
 - 📈 Solved 100+ DSA problems on LeetCode & GFG  
-- 🎓 B.Tech @ KIIT University (Branch: [Your Branch])  
+- 🎓 B.Tech @ KIIT University (Branch: [C.S.E.])  
 - 🧠 Selected for **Keploy API Fellowship 2025**
 
 ---
@@ -60,16 +60,8 @@
 
 ## 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/rajforsure)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
-📬 **Email**: raj.mondal@example.com  
+📬 **Email**: rajmondal1907@gmail.com  
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajforsure&show_icons=true&theme=radical" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajforsure&theme=radical" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajforsure&layout=compact&theme=radical" />
-<
